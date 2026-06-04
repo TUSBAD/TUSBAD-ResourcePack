@@ -1,0 +1,22 @@
+{
+    "menu.returnToMenu": "§c旅を終える§r",
+    "menu.disconnect": "§c旅を終える§r",
+    "menu.returnToGame": "§a旅を続ける§r",
+    "soundCategory.master": "§b主音量§r",
+    "soundCategory.music": "§a背景音楽§r",
+    "soundCategory.record": "§cボス戦音楽§r",
+    "soundCategory.weather": "天候",
+    "soundCategory.hostile": "§4敵スキル効果音§r",
+    "soundCategory.neutral": "§d味方スキル効果音§r",
+    "soundCategory.player": "§6サウンドテスト音楽§r",
+    "soundCategory.block": "§5カウントダウン効果音§r",
+    "soundCategory.ambient": "§3予感/花火効果音§r",
+    "soundCategory.voice": "§9レベルアップ音§r",
+    "deathScreen.respawn": "§b生き返る§r",
+    "deathScreen.spectate": "§9観光する§r",
+    "deathScreen.deleteWorld": "§4§l本当に後悔しませんね？§r",
+    "deathScreen.titleScreen": "§4§l成仏する§r",
+    "deathScreen.leaveServer": "Leave server",
+    "deathScreen.quit.confirm": "§c§l後悔しませんね？§r",
+    "options.sounds": "音量設定"
+}

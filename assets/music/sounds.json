@@ -1,0 +1,397 @@
+{
+  "nether.soul_sand_valley_pitch2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/soulsand_valley/so_below",
+        "pitch": 2,
+        "stream": true
+      }
+    ]
+  },
+  "nether.soul_sand_valley_pitch1.5": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/soulsand_valley/so_below",
+        "pitch": 1.5,
+        "stream": true
+      }
+    ]
+  },
+  "nether.soul_sand_valley_rare": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/soulsand_valley/so_below",
+        "stream": true
+      }
+    ]
+  },
+  "nether.nether_wastes_pitch2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/nether_wastes/rebedo",
+        "pitch": 2,
+        "stream": true
+      }
+    ]
+  },
+  "nether.nether_wastes_pitch1.5": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/nether_wastes/rebedo",
+        "pitch": 1.5,
+        "stream": true
+      }
+    ]
+  },
+  "nether.nether_wastes_rare": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/nether_wastes/rebedo",
+        "stream": true
+      }
+    ]
+  },
+  "nether.warmth": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/warmth",
+        "stream": true
+      }
+    ]
+  },
+  "nether.dead_voxel": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/dead_voxel",
+        "stream": true
+      }
+    ]
+  },
+  "nether.dconcrete_halls": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/concrete_halls",
+        "stream": true
+      }
+    ]
+  },
+  "nether.ballad_of_the_cats": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/ballad_of_the_cats",
+        "stream": true
+      }
+    ]
+  },
+  "nether.chrysopoeia": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/chrysopoeia",
+        "stream": true
+      }
+    ]
+  },
+  "left_to_bloom": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/left_to_bloom",
+        "stream": true
+      }
+    ]
+  },
+  "aerie": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/swamp/aerie",
+        "stream": true
+      }
+    ]
+  },
+  "wending": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/wending",
+        "stream": true
+      }
+    ]
+  },
+  "floating_dream": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/floating_dream",
+        "stream": true
+      }
+    ]
+  },
+  "comforting_memories": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/comforting_memories",
+        "stream": true
+      }
+    ]
+  },
+  "an_ordinary_day": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/an_ordinary_day",
+        "stream": true
+      }
+    ]
+  },
+  "one_more_day": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/one_more_day",
+        "stream": true
+      }
+    ]
+  },
+  "stand_tall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/stand_tall",
+        "stream": true
+      }
+    ]
+  },
+  "shunjii": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/water/shunjii",
+        "stream": true
+      }
+    ]
+  },
+  "dragon_fish": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/water/dragon_fish",
+        "stream": true
+      }
+    ]
+  },
+  "axolotl": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/water/axolotl",
+        "stream": true
+      }
+    ]
+  },
+  "bromeliad": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/bromeliad",
+        "stream": true
+      }
+    ]
+  },
+  "a_familiar_room": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/a_familiar_room",
+        "stream": true
+      }
+    ]
+  },
+  "crescent_dunes": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/crescent_dunes",
+        "stream": true
+      }
+    ]
+  },
+  "echo_in_the_wind": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/echo_in_the_wind",
+        "stream": true
+      }
+    ]
+  },
+  "infinite_amethyst": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/infinite_amethyst",
+        "stream": true
+      }
+    ]
+  },
+  "ancestry": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/ancestry",
+        "stream": true
+      }
+    ]
+  },
+  "firebugs": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/firebugs",
+        "stream": true
+      }
+    ]
+  },
+  "labyrinthine": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/labyrinthine",
+        "stream": true
+      }
+    ]
+  },
+  "deeper": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/deeper",
+        "stream": true
+      }
+    ]
+  },
+  "eld_unknown": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/eld_unknown",
+        "stream": true
+      }
+    ]
+  },
+  "eld_unknown_pitch0.75": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/eld_unknown",
+        "pitch": 0.75,
+        "stream": true
+      }
+    ]
+  },
+  "eld_unknown_pitch1.5": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/eld_unknown",
+        "pitch": 1.5,
+        "stream": true
+      }
+    ]
+  }
+  ,
+  "endless": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/endless",
+        "stream": true
+      }
+    ]
+  },
+  "feather_fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/featherfall",
+        "stream": true
+      }
+    ]
+  },
+  "komorebi": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/komorebi",
+        "stream": true
+      }
+    ]
+  },
+  "pokopoko": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/pokopoko",
+        "stream": true
+      }
+    ]
+  },
+  "puzzlebox": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/puzzlebox",
+        "stream": true
+      }
+    ]
+  },
+  "watcher": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/watcher",
+        "stream": true
+      }
+    ]
+  },
+  "yakusoku": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/yakusoku",
+        "stream": true
+      }
+    ]
+  },
+  "precipice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "records/precipice",
+        "stream": true
+      }
+    ]
+  },
+  "precipice_pitch1.25": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "records/precipice",
+        "pitch": 1.25,
+        "stream": true
+      }
+    ]
+  }
+}

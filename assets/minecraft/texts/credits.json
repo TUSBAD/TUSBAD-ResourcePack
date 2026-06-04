@@ -1,0 +1,199 @@
+[
+    {
+        "section": "TUSB AnotherDimension",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "                   §dRemake §aα§r",
+                    "",
+                    "             By TUSBAD 製作班"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "AD 製作者",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "                §d§lフレイシェル§r",
+                    "",
+					"                   主製作者",
+                    "                 システム班",
+                    "                    建築班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                  §b§lおねんね",
+                    "",
+                    "                  システム班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                    §b§lイーラ",
+                    "",
+                    "                  システム班",
+                    "                    建築班",
+                    "                 テクスチャ班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                    §b§lよひや",
+                    "",
+                    "                    建築班",
+                    "                 テクスチャ班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                   §b§lるーみあ",
+                    "",
+                    "                    建築班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                  §b§lブラッキー",
+                    "",
+                    "                    建築班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                     §b§lたま",
+                    "",
+                    "                    建築班",
+                    "                    MOD班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                     §b§lぽか",
+                    "",
+                    "                  システム班",
+                    "                    建築班",
+                    "                    MOD班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                  §b§lAltishia",
+                    "",
+                    "                    建築班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                  §b§lSysnote8",
+                    "",
+                    "                    システム班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                  §b§lかつ丼",
+                    "",
+                    "                    アイディア班"
+                ]
+            }
+		]
+	},
+    {
+        "section": "原作",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "             Minecraft 1.20.x "
+                ]
+            }
+        ]
+    },
+    {
+        "section": "元作品",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "    §bTheUnusualSkyBlock §av13§r",
+                    "",
+                    "              By サークルTUSB "
+                ]
+            }
+        ]
+    },
+    {
+        "section": "謝辞",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "              §7コマンドアドバイス§r",
+                    "",
+                    "                   §aPonpon§r "
+                ]
+            },
+            {
+                "title": " ",
+                "names": [
+                    "                  §7ライブラリ§r",
+                    "",
+                    "                    AiMath",
+                    "             AnywareFunction",
+                    "             AnywareTeleport",
+                    "               CloseDetector",
+                    "                   NoSleep",
+                    "                   OhMyDat",
+                    "              PlayerItemTuner",
+                    "               ScoreToHealth",
+                    "",
+                    "                By §a赤石愛§r ",
+                    "",
+                    "               ScoreDamage",
+                    "",
+                    "                By §aちぇん§r"
+
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                  §7デバッガー§r",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "section": "クレジット",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "                     §7音楽§r",
+                    "",
+                    "            パンダの中のパンダ 様 ",
+                    "         PeriTune(ペリチューン) 様 ",
+                    "                ユーフルカ 様 ",
+                    "                    Potwi 様 ",
+                    "               まんぼう特攻兵 様 "
+                ]
+            }
+        ]
+    }
+]
