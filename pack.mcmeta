@@ -1,10 +1,10 @@
 {
     "pack": {
-        "pack_format": 15,
+        "pack_format": 22,
         "supported_formats": [
-            15,
-            15
+            22,
+            22
         ],
-        "description": "TUSBAD Reboot\nMCver 1.21"
+        "description": "TUSBRemix AnotherEdition\nMCver 1.20.4"
     }
 }
