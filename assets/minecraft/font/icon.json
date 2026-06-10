@@ -1,7 +1,85 @@
 {
     "providers": [
         {
-
+            "type": "bitmap",
+            "file": "minecraft:font/icon/job/common.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/job/knight.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "K"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/job/ninja.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "N"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/job/hunter.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "H"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/job/white_mage.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "W"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/job/black_mage.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/job/summoner.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "S"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/job/lancer.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "L"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/job/farmer.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "F"
+            ]
         }
     ]
 }

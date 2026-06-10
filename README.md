@@ -19,4 +19,3 @@
 
 # クレジット
 - [TUSB](https://github.com/TUSB/TheUnusualResourcePack)
-- [Game-icons.net](https://game-icons.net/) (CC-BY-3.0)
