@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_sword"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1000}, "model": "3d_item/stone_sword/tomb/tomb_1"}
+    ]
+}

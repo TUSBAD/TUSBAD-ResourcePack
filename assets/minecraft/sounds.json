@@ -585,7 +585,7 @@
       }
     ]
   },
-    "ambient.basalt_deltas.active_2": {
+  "ambient.basalt_deltas.active_2": {
     "replace": true,
     "sounds": [
       {
@@ -593,7 +593,7 @@
       }
     ]
   },
-    "ambient.basalt_deltas.active_3": {
+  "ambient.basalt_deltas.active_3": {
     "replace": true,
     "sounds": [
       {
@@ -601,7 +601,7 @@
       }
     ]
   },
-    "ambient.basalt_deltas.active_4": {
+  "ambient.basalt_deltas.active_4": {
     "replace": true,
     "sounds": [
       {
@@ -609,7 +609,7 @@
       }
     ]
   },
-    "ambient.basalt_deltas.basaltground_4": {
+  "ambient.basalt_deltas.basaltground_4": {
     "replace": true,
     "sounds": [
       {
@@ -819,5 +819,37 @@
         "name": "ambient/nether/warped_forest/help2"
       }
     ]
+  },
+  "item.armor.equip_chain": {
+    "replace": true,
+    "sounds": []
+  },
+  "item.armor.equip_diamond": {
+    "replace": true,
+    "sounds": []
+  },
+  "item.armor.equip_elytra": {
+    "replace": true,
+    "sounds": []
+  },
+  "item.armor.equip_gold": {
+    "replace": true,
+    "sounds": []
+  },
+  "item.armor.equip_iron": {
+    "replace": true,
+    "sounds": []
+  },
+  "item.armor.equip_leather": {
+    "replace": true,
+    "sounds": []
+  },
+  "item.armor.equip_netherite": {
+    "replace": true,
+    "sounds": []
+  },
+  "item.armor.equip_turtle": {
+    "replace": true,
+    "sounds": []
   }
 }

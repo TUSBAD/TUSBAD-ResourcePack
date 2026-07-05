@@ -1,0 +1,1983 @@
+{
+    "item.armor.equip_chain": {
+        "sounds": [
+            "item/armor/equip_chain1",
+            "item/armor/equip_chain2",
+            "item/armor/equip_chain3",
+            "item/armor/equip_chain4",
+            "item/armor/equip_chain5",
+            "item/armor/equip_chain6"
+        ],
+        "subtitle": "subtitles.item.armor.equip_chain"
+    },
+    "item.armor.equip_diamond": {
+        "sounds": [
+            "item/armor/equip_diamond1",
+            "item/armor/equip_diamond2",
+            "item/armor/equip_diamond3",
+            "item/armor/equip_diamond4",
+            "item/armor/equip_diamond5",
+            "item/armor/equip_diamond6"
+        ],
+        "subtitle": "subtitles.item.armor.equip_diamond"
+    },
+    "item.armor.equip_elytra": {
+        "sounds": [
+            "item/armor/equip_leather1",
+            "item/armor/equip_leather2",
+            "item/armor/equip_leather3",
+            "item/armor/equip_leather4",
+            "item/armor/equip_leather5",
+            "item/armor/equip_leather6"
+        ],
+        "subtitle": "subtitles.item.armor.equip_elytra"
+    },
+    "item.armor.equip_gold": {
+        "sounds": [
+            "item/armor/equip_gold1",
+            "item/armor/equip_gold2",
+            "item/armor/equip_gold3",
+            "item/armor/equip_gold4",
+            "item/armor/equip_gold5",
+            "item/armor/equip_gold6"
+        ],
+        "subtitle": "subtitles.item.armor.equip_gold"
+    },
+    "item.armor.equip_iron": {
+        "sounds": [
+            "item/armor/equip_iron1",
+            "item/armor/equip_iron2",
+            "item/armor/equip_iron3",
+            "item/armor/equip_iron4",
+            "item/armor/equip_iron5",
+            "item/armor/equip_iron6"
+        ],
+        "subtitle": "subtitles.item.armor.equip_iron"
+    },
+    "item.armor.equip_leather": {
+        "sounds": [
+            "item/armor/equip_leather1",
+            "item/armor/equip_leather2",
+            "item/armor/equip_leather3",
+            "item/armor/equip_leather4",
+            "item/armor/equip_leather5",
+            "item/armor/equip_leather6"
+        ],
+        "subtitle": "subtitles.item.armor.equip_leather"
+    },
+    "item.armor.equip_netherite": {
+        "sounds": [
+            {
+                "name": "item/armor/equip_netherite1",
+                "volume": 0.8
+            },
+            {
+                "name": "item/armor/equip_netherite1",
+                "pitch": 0.9,
+                "volume": 0.8
+            },
+            {
+                "name": "item/armor/equip_netherite2",
+                "volume": 0.8
+            },
+            {
+                "name": "item/armor/equip_netherite2",
+                "pitch": 0.9,
+                "volume": 0.8
+            },
+            {
+                "name": "item/armor/equip_netherite3",
+                "volume": 0.8
+            },
+            {
+                "name": "item/armor/equip_netherite3",
+                "pitch": 0.9,
+                "volume": 0.8
+            },
+            {
+                "name": "item/armor/equip_netherite4",
+                "volume": 0.8
+            },
+            {
+                "name": "item/armor/equip_netherite4",
+                "pitch": 0.9,
+                "volume": 0.8
+            }
+        ],
+        "subtitle": "subtitles.item.armor.equip_netherite"
+    },
+    "item.armor.equip_turtle": {
+        "sounds": [
+            "mob/turtle/armor",
+            {
+                "name": "mob/turtle/armor",
+                "pitch": 0.85
+            },
+            {
+                "name": "mob/turtle/armor",
+                "pitch": 1.1
+            }
+        ],
+        "subtitle": "subtitles.item.armor.equip_turtle"
+    },
+    "ambient.nether.basalt_deltas.active1": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/active1"
+        ]
+    },
+    "ambient.nether.basalt_deltas.active2": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/active2"
+        ]
+    },
+    "ambient.nether.basalt_deltas.active3": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/active3"
+        ]
+    },
+    "ambient.nether.basalt_deltas.active4": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/active4"
+        ]
+    },
+    "ambient.nether.basalt_deltas.ambience": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/ambience"
+        ]
+    },
+    "ambient.nether.basalt_deltas.basaltground1": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/basaltground1"
+        ]
+    },
+    "ambient.nether.basalt_deltas.basaltground2": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/basaltground2"
+        ]
+    },
+    "ambient.nether.basalt_deltas.basaltground3": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/basaltground3"
+        ]
+    },
+    "ambient.nether.basalt_deltas.basaltground4": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/basaltground4"
+        ]
+    },
+    "ambient.nether.basalt_deltas.click1": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/click1"
+        ]
+    },
+    "ambient.nether.basalt_deltas.click2": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/click2"
+        ]
+    },
+    "ambient.nether.basalt_deltas.click3": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/click3"
+        ]
+    },
+    "ambient.nether.basalt_deltas.click4": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/click4"
+        ]
+    },
+    "ambient.nether.basalt_deltas.click5": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/click5"
+        ]
+    },
+    "ambient.nether.basalt_deltas.click6": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/click6"
+        ]
+    },
+    "ambient.nether.basalt_deltas.click7": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/click7"
+        ]
+    },
+    "ambient.nether.basalt_deltas.click8": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/click8"
+        ]
+    },
+    "ambient.nether.basalt_deltas.debris1": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/debris1"
+        ]
+    },
+    "ambient.nether.basalt_deltas.debris2": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/debris2"
+        ]
+    },
+    "ambient.nether.basalt_deltas.debris3": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/debris3"
+        ]
+    },
+    "ambient.nether.basalt_deltas.heavy_click1": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/heavy_click1"
+        ]
+    },
+    "ambient.nether.basalt_deltas.heavy_click2": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/heavy_click2"
+        ]
+    },
+    "ambient.nether.basalt_deltas.long_debris1": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/long_debris1"
+        ]
+    },
+    "ambient.nether.basalt_deltas.long_debris2": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/long_debris2"
+        ]
+    },
+    "ambient.nether.basalt_deltas.plode1": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/plode1"
+        ]
+    },
+    "ambient.nether.basalt_deltas.plode2": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/plode2"
+        ]
+    },
+    "ambient.nether.basalt_deltas.plode3": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/plode3"
+        ]
+    },
+    "ambient.nether.basalt_deltas.twist1": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/twist1"
+        ]
+    },
+    "ambient.nether.basalt_deltas.twist2": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/twist2"
+        ]
+    },
+    "ambient.nether.basalt_deltas.twist3": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/twist3"
+        ]
+    },
+    "ambient.nether.basalt_deltas.twist4": {
+        "sounds": [
+            "ambient/nether/basalt_deltas/twist4"
+        ]
+    },
+    "ambient.nether.crimson_forest.addition1": {
+        "sounds": [
+            "ambient/nether/crimson_forest/addition1"
+        ]
+    },
+    "ambient.nether.crimson_forest.addition2": {
+        "sounds": [
+            "ambient/nether/crimson_forest/addition2"
+        ]
+    },
+    "ambient.nether.crimson_forest.addition3": {
+        "sounds": [
+            "ambient/nether/crimson_forest/addition3"
+        ]
+    },
+    "ambient.nether.crimson_forest.ambience": {
+        "sounds": [
+            "ambient/nether/crimson_forest/ambience"
+        ]
+    },
+    "ambient.nether.crimson_forest.mood1": {
+        "sounds": [
+            "ambient/nether/crimson_forest/mood1"
+        ]
+    },
+    "ambient.nether.crimson_forest.mood2": {
+        "sounds": [
+            "ambient/nether/crimson_forest/mood2"
+        ]
+    },
+    "ambient.nether.crimson_forest.mood3": {
+        "sounds": [
+            "ambient/nether/crimson_forest/mood3"
+        ]
+    },
+    "ambient.nether.crimson_forest.mood4": {
+        "sounds": [
+            "ambient/nether/crimson_forest/mood4"
+        ]
+    },
+    "ambient.nether.crimson_forest.particles1": {
+        "sounds": [
+            "ambient/nether/crimson_forest/particles1"
+        ]
+    },
+    "ambient.nether.crimson_forest.particles2": {
+        "sounds": [
+            "ambient/nether/crimson_forest/particles2"
+        ]
+    },
+    "ambient.nether.crimson_forest.particles3": {
+        "sounds": [
+            "ambient/nether/crimson_forest/particles3"
+        ]
+    },
+    "ambient.nether.crimson_forest.shine1": {
+        "sounds": [
+            "ambient/nether/crimson_forest/shine1"
+        ]
+    },
+    "ambient.nether.crimson_forest.shine2": {
+        "sounds": [
+            "ambient/nether/crimson_forest/shine2"
+        ]
+    },
+    "ambient.nether.crimson_forest.shine3": {
+        "sounds": [
+            "ambient/nether/crimson_forest/shine3"
+        ]
+    },
+    "ambient.nether.crimson_forest.shroom1": {
+        "sounds": [
+            "ambient/nether/crimson_forest/shroom1"
+        ]
+    },
+    "ambient.nether.crimson_forest.shroom2": {
+        "sounds": [
+            "ambient/nether/crimson_forest/shroom2"
+        ]
+    },
+    "ambient.nether.crimson_forest.shroom3": {
+        "sounds": [
+            "ambient/nether/crimson_forest/shroom3"
+        ]
+    },
+    "ambient.nether.crimson_forest.twang1": {
+        "sounds": [
+            "ambient/nether/crimson_forest/twang1"
+        ]
+    },
+    "ambient.nether.crimson_forest.voom1": {
+        "sounds": [
+            "ambient/nether/crimson_forest/voom1"
+        ]
+    },
+    "ambient.nether.crimson_forest.voom2": {
+        "sounds": [
+            "ambient/nether/crimson_forest/voom2"
+        ]
+    },
+    "ambient.nether.nether_wastes.addition1": {
+        "sounds": [
+            "ambient/nether/nether_wastes/addition1"
+        ]
+    },
+    "ambient.nether.nether_wastes.addition2": {
+        "sounds": [
+            "ambient/nether/nether_wastes/addition2"
+        ]
+    },
+    "ambient.nether.nether_wastes.addition3": {
+        "sounds": [
+            "ambient/nether/nether_wastes/addition3"
+        ]
+    },
+    "ambient.nether.nether_wastes.addition4": {
+        "sounds": [
+            "ambient/nether/nether_wastes/addition4"
+        ]
+    },
+    "ambient.nether.nether_wastes.addition5": {
+        "sounds": [
+            "ambient/nether/nether_wastes/addition5"
+        ]
+    },
+    "ambient.nether.nether_wastes.addition6": {
+        "sounds": [
+            "ambient/nether/nether_wastes/addition6"
+        ]
+    },
+    "ambient.nether.nether_wastes.addition7": {
+        "sounds": [
+            "ambient/nether/nether_wastes/addition7"
+        ]
+    },
+    "ambient.nether.nether_wastes.addition8": {
+        "sounds": [
+            "ambient/nether/nether_wastes/addition8"
+        ]
+    },
+    "ambient.nether.nether_wastes.ambience": {
+        "sounds": [
+            "ambient/nether/nether_wastes/ambience"
+        ]
+    },
+    "ambient.nether.nether_wastes.dark1": {
+        "sounds": [
+            "ambient/nether/nether_wastes/dark1"
+        ]
+    },
+    "ambient.nether.nether_wastes.dark2": {
+        "sounds": [
+            "ambient/nether/nether_wastes/dark2"
+        ]
+    },
+    "ambient.nether.nether_wastes.ground1": {
+        "sounds": [
+            "ambient/nether/nether_wastes/ground1"
+        ]
+    },
+    "ambient.nether.nether_wastes.ground2": {
+        "sounds": [
+            "ambient/nether/nether_wastes/ground2"
+        ]
+    },
+    "ambient.nether.nether_wastes.ground3": {
+        "sounds": [
+            "ambient/nether/nether_wastes/ground3"
+        ]
+    },
+    "ambient.nether.nether_wastes.ground4": {
+        "sounds": [
+            "ambient/nether/nether_wastes/ground4"
+        ]
+    },
+    "ambient.nether.nether_wastes.mood1": {
+        "sounds": [
+            "ambient/nether/nether_wastes/mood1"
+        ]
+    },
+    "ambient.nether.nether_wastes.mood2": {
+        "sounds": [
+            "ambient/nether/nether_wastes/mood2"
+        ]
+    },
+    "ambient.nether.nether_wastes.mood3": {
+        "sounds": [
+            "ambient/nether/nether_wastes/mood3"
+        ]
+    },
+    "ambient.nether.nether_wastes.mood4": {
+        "sounds": [
+            "ambient/nether/nether_wastes/mood4"
+        ]
+    },
+    "ambient.nether.nether_wastes.mood5": {
+        "sounds": [
+            "ambient/nether/nether_wastes/mood5"
+        ]
+    },
+    "ambient.nether.soulsand_valley.ambience": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/ambience"
+        ]
+    },
+    "ambient.nether.soulsand_valley.mood1": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/mood1"
+        ]
+    },
+    "ambient.nether.soulsand_valley.mood2": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/mood2"
+        ]
+    },
+    "ambient.nether.soulsand_valley.mood3": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/mood3"
+        ]
+    },
+    "ambient.nether.soulsand_valley.mood4": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/mood4"
+        ]
+    },
+    "ambient.nether.soulsand_valley.sand1": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/sand1"
+        ]
+    },
+    "ambient.nether.soulsand_valley.sand2": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/sand2"
+        ]
+    },
+    "ambient.nether.soulsand_valley.sand3": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/sand3"
+        ]
+    },
+    "ambient.nether.soulsand_valley.voices1": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/voices1"
+        ]
+    },
+    "ambient.nether.soulsand_valley.voices2": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/voices2"
+        ]
+    },
+    "ambient.nether.soulsand_valley.voices3": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/voices3"
+        ]
+    },
+    "ambient.nether.soulsand_valley.voices4": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/voices4"
+        ]
+    },
+    "ambient.nether.soulsand_valley.voices5": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/voices5"
+        ]
+    },
+    "ambient.nether.soulsand_valley.whisper1": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/whisper1"
+        ]
+    },
+    "ambient.nether.soulsand_valley.whisper2": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/whisper2"
+        ]
+    },
+    "ambient.nether.soulsand_valley.whisper3": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/whisper3"
+        ]
+    },
+    "ambient.nether.soulsand_valley.whisper4": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/whisper4"
+        ]
+    },
+    "ambient.nether.soulsand_valley.whisper5": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/whisper5"
+        ]
+    },
+    "ambient.nether.soulsand_valley.whisper6": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/whisper6"
+        ]
+    },
+    "ambient.nether.soulsand_valley.whisper7": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/whisper7"
+        ]
+    },
+    "ambient.nether.soulsand_valley.whisper8": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/whisper8"
+        ]
+    },
+    "ambient.nether.soulsand_valley.wind1": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/wind1"
+        ]
+    },
+    "ambient.nether.soulsand_valley.wind2": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/wind2"
+        ]
+    },
+    "ambient.nether.soulsand_valley.wind3": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/wind3"
+        ]
+    },
+    "ambient.nether.soulsand_valley.wind4": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/wind4"
+        ]
+    },
+    "ambient.nether.soulsand_valley.with1": {
+        "sounds": [
+            "ambient/nether/soulsand_valley/with1"
+        ]
+    },
+    "ambient.nether.warped_forest.addition1": {
+        "sounds": [
+            "ambient/nether/warped_forest/addition1"
+        ]
+    },
+    "ambient.nether.warped_forest.addition2": {
+        "sounds": [
+            "ambient/nether/warped_forest/addition2"
+        ]
+    },
+    "ambient.nether.warped_forest.addition3": {
+        "sounds": [
+            "ambient/nether/warped_forest/addition3"
+        ]
+    },
+    "ambient.nether.warped_forest.addition4": {
+        "sounds": [
+            "ambient/nether/warped_forest/addition4"
+        ]
+    },
+    "ambient.nether.warped_forest.addition5": {
+        "sounds": [
+            "ambient/nether/warped_forest/addition5"
+        ]
+    },
+    "ambient.nether.warped_forest.addition6": {
+        "sounds": [
+            "ambient/nether/warped_forest/addition6"
+        ]
+    },
+    "ambient.nether.warped_forest.ambience": {
+        "sounds": [
+            "ambient/nether/warped_forest/ambience"
+        ]
+    },
+    "ambient.nether.warped_forest.creak1": {
+        "sounds": [
+            "ambient/nether/warped_forest/creak1"
+        ]
+    },
+    "ambient.nether.warped_forest.creak2": {
+        "sounds": [
+            "ambient/nether/warped_forest/creak2"
+        ]
+    },
+    "ambient.nether.warped_forest.creak3": {
+        "sounds": [
+            "ambient/nether/warped_forest/creak3"
+        ]
+    },
+    "ambient.nether.warped_forest.creak4": {
+        "sounds": [
+            "ambient/nether/warped_forest/creak4"
+        ]
+    },
+    "ambient.nether.warped_forest.creak5": {
+        "sounds": [
+            "ambient/nether/warped_forest/creak5"
+        ]
+    },
+    "ambient.nether.warped_forest.enish1": {
+        "sounds": [
+            "ambient/nether/warped_forest/enish1"
+        ]
+    },
+    "ambient.nether.warped_forest.enish2": {
+        "sounds": [
+            "ambient/nether/warped_forest/enish2"
+        ]
+    },
+    "ambient.nether.warped_forest.enish3": {
+        "sounds": [
+            "ambient/nether/warped_forest/enish3"
+        ]
+    },
+    "ambient.nether.warped_forest.help1": {
+        "sounds": [
+            "ambient/nether/warped_forest/help1"
+        ]
+    },
+    "ambient.nether.warped_forest.help2": {
+        "sounds": [
+            "ambient/nether/warped_forest/help2"
+        ]
+    },
+    "ambient.nether.warped_forest.here1": {
+        "sounds": [
+            "ambient/nether/warped_forest/here1"
+        ]
+    },
+    "ambient.nether.warped_forest.here2": {
+        "sounds": [
+            "ambient/nether/warped_forest/here2"
+        ]
+    },
+    "ambient.nether.warped_forest.here3": {
+        "sounds": [
+            "ambient/nether/warped_forest/here3"
+        ]
+    },
+    "ambient.nether.warped_forest.mood1": {
+        "sounds": [
+            "ambient/nether/warped_forest/mood1"
+        ]
+    },
+    "ambient.nether.warped_forest.mood2": {
+        "sounds": [
+            "ambient/nether/warped_forest/mood2"
+        ]
+    },
+    "ambient.nether.warped_forest.mood3": {
+        "sounds": [
+            "ambient/nether/warped_forest/mood3"
+        ]
+    },
+    "ambient.nether.warped_forest.mood4": {
+        "sounds": [
+            "ambient/nether/warped_forest/mood4"
+        ]
+    },
+    "ambient.nether.warped_forest.mood5": {
+        "sounds": [
+            "ambient/nether/warped_forest/mood5"
+        ]
+    },
+    "ambient.nether.warped_forest.mood6": {
+        "sounds": [
+            "ambient/nether/warped_forest/mood6"
+        ]
+    },
+    "ambient.nether.warped_forest.mood7": {
+        "sounds": [
+            "ambient/nether/warped_forest/mood7"
+        ]
+    },
+    "ambient.nether.warped_forest.mood8": {
+        "sounds": [
+            "ambient/nether/warped_forest/mood8"
+        ]
+    },
+    "ambient.nether.warped_forest.mood9": {
+        "sounds": [
+            "ambient/nether/warped_forest/mood9"
+        ]
+    },
+    "ambient.underwater.additions.animal1": {
+        "sounds": [
+            "ambient/underwater/additions/animal1"
+        ]
+    },
+    "ambient.underwater.additions.animal2": {
+        "sounds": [
+            "ambient/underwater/additions/animal2"
+        ]
+    },
+    "ambient.underwater.additions.bass_whale1": {
+        "sounds": [
+            "ambient/underwater/additions/bass_whale1"
+        ]
+    },
+    "ambient.underwater.additions.bass_whale2": {
+        "sounds": [
+            "ambient/underwater/additions/bass_whale2"
+        ]
+    },
+    "ambient.underwater.additions.bubbles1": {
+        "sounds": [
+            "ambient/underwater/additions/bubbles1"
+        ]
+    },
+    "ambient.underwater.additions.bubbles2": {
+        "sounds": [
+            "ambient/underwater/additions/bubbles2"
+        ]
+    },
+    "ambient.underwater.additions.bubbles3": {
+        "sounds": [
+            "ambient/underwater/additions/bubbles3"
+        ]
+    },
+    "ambient.underwater.additions.bubbles4": {
+        "sounds": [
+            "ambient/underwater/additions/bubbles4"
+        ]
+    },
+    "ambient.underwater.additions.bubbles5": {
+        "sounds": [
+            "ambient/underwater/additions/bubbles5"
+        ]
+    },
+    "ambient.underwater.additions.bubbles6": {
+        "sounds": [
+            "ambient/underwater/additions/bubbles6"
+        ]
+    },
+    "ambient.underwater.additions.crackles1": {
+        "sounds": [
+            "ambient/underwater/additions/crackles1"
+        ]
+    },
+    "ambient.underwater.additions.crackles2": {
+        "sounds": [
+            "ambient/underwater/additions/crackles2"
+        ]
+    },
+    "ambient.underwater.additions.dark1": {
+        "sounds": [
+            "ambient/underwater/additions/dark1"
+        ]
+    },
+    "ambient.underwater.additions.dark2": {
+        "sounds": [
+            "ambient/underwater/additions/dark2"
+        ]
+    },
+    "ambient.underwater.additions.dark3": {
+        "sounds": [
+            "ambient/underwater/additions/dark3"
+        ]
+    },
+    "ambient.underwater.additions.dark4": {
+        "sounds": [
+            "ambient/underwater/additions/dark4"
+        ]
+    },
+    "ambient.underwater.additions.driplets1": {
+        "sounds": [
+            "ambient/underwater/additions/driplets1"
+        ]
+    },
+    "ambient.underwater.additions.driplets2": {
+        "sounds": [
+            "ambient/underwater/additions/driplets2"
+        ]
+    },
+    "ambient.underwater.additions.earth_crack": {
+        "sounds": [
+            "ambient/underwater/additions/earth_crack"
+        ]
+    },
+    "ambient.underwater.additions.water1": {
+        "sounds": [
+            "ambient/underwater/additions/water1"
+        ]
+    },
+    "ambient.underwater.additions.water2": {
+        "sounds": [
+            "ambient/underwater/additions/water2"
+        ]
+    },
+    "ambient.underwater.enter1": {
+        "sounds": [
+            "ambient/underwater/enter1"
+        ]
+    },
+    "ambient.underwater.enter2": {
+        "sounds": [
+            "ambient/underwater/enter2"
+        ]
+    },
+    "ambient.underwater.enter3": {
+        "sounds": [
+            "ambient/underwater/enter3"
+        ]
+    },
+    "ambient.underwater.exit1": {
+        "sounds": [
+            "ambient/underwater/exit1"
+        ]
+    },
+    "ambient.underwater.exit2": {
+        "sounds": [
+            "ambient/underwater/exit2"
+        ]
+    },
+    "ambient.underwater.exit3": {
+        "sounds": [
+            "ambient/underwater/exit3"
+        ]
+    },
+    "ambient.underwater.underwater_ambience": {
+        "sounds": [
+            "ambient/underwater/underwater_ambience"
+        ]
+    },
+    "ambient.weather.rain1": {
+        "sounds": [
+            "ambient/weather/rain1"
+        ]
+    },
+    "ambient.weather.rain2": {
+        "sounds": [
+            "ambient/weather/rain2"
+        ]
+    },
+    "ambient.weather.rain3": {
+        "sounds": [
+            "ambient/weather/rain3"
+        ]
+    },
+    "ambient.weather.rain4": {
+        "sounds": [
+            "ambient/weather/rain4"
+        ]
+    },
+    "ambient.weather.rain5": {
+        "sounds": [
+            "ambient/weather/rain5"
+        ]
+    },
+    "ambient.weather.rain6": {
+        "sounds": [
+            "ambient/weather/rain6"
+        ]
+    },
+    "ambient.weather.rain7": {
+        "sounds": [
+            "ambient/weather/rain7"
+        ]
+    },
+    "ambient.weather.rain8": {
+        "sounds": [
+            "ambient/weather/rain8"
+        ]
+    },
+    "ambient.weather.thunder1": {
+        "sounds": [
+            "ambient/weather/thunder1"
+        ]
+    },
+    "ambient.weather.thunder2": {
+        "sounds": [
+            "ambient/weather/thunder2"
+        ]
+    },
+    "ambient.weather.thunder3": {
+        "sounds": [
+            "ambient/weather/thunder3"
+        ]
+    },
+    "block.sculk_shrieker.shriek1": {
+        "sounds": [
+            "block/sculk_shrieker/shriek1"
+        ]
+    },
+    "block.sculk_shrieker.shriek2": {
+        "sounds": [
+            "block/sculk_shrieker/shriek2"
+        ]
+    },
+    "block.sculk_shrieker.shriek3": {
+        "sounds": [
+            "block/sculk_shrieker/shriek3"
+        ]
+    },
+    "block.sculk_shrieker.shriek4": {
+        "sounds": [
+            "block/sculk_shrieker/shriek4"
+        ]
+    },
+    "block.sculk_shrieker.shriek5": {
+        "sounds": [
+            "block/sculk_shrieker/shriek5"
+        ]
+    },
+    "block.trial_spawner.ambient1": {
+        "sounds": [
+            "block/trial_spawner/ambient1"
+        ]
+    },
+    "block.trial_spawner.ambient2": {
+        "sounds": [
+            "block/trial_spawner/ambient2"
+        ]
+    },
+    "block.trial_spawner.ambient3": {
+        "sounds": [
+            "block/trial_spawner/ambient3"
+        ]
+    },
+    "block.trial_spawner.ambient4": {
+        "sounds": [
+            "block/trial_spawner/ambient4"
+        ]
+    },
+    "block.trial_spawner.ambient5": {
+        "sounds": [
+            "block/trial_spawner/ambient5"
+        ]
+    },
+    "block.trial_spawner.break1": {
+        "sounds": [
+            "block/trial_spawner/break1"
+        ]
+    },
+    "block.trial_spawner.break2": {
+        "sounds": [
+            "block/trial_spawner/break2"
+        ]
+    },
+    "block.trial_spawner.break3": {
+        "sounds": [
+            "block/trial_spawner/break3"
+        ]
+    },
+    "block.trial_spawner.close_shutter": {
+        "sounds": [
+            "block/trial_spawner/close_shutter"
+        ]
+    },
+    "block.trial_spawner.detect_player1": {
+        "sounds": [
+            "block/trial_spawner/detect_player1"
+        ]
+    },
+    "block.trial_spawner.detect_player2": {
+        "sounds": [
+            "block/trial_spawner/detect_player2"
+        ]
+    },
+    "block.trial_spawner.detect_player3": {
+        "sounds": [
+            "block/trial_spawner/detect_player3"
+        ]
+    },
+    "block.trial_spawner.eject_item1": {
+        "sounds": [
+            "block/trial_spawner/eject_item1"
+        ]
+    },
+    "block.trial_spawner.open_shutter": {
+        "sounds": [
+            "block/trial_spawner/open_shutter"
+        ]
+    },
+    "block.trial_spawner.spawn1": {
+        "sounds": [
+            "block/trial_spawner/spawn1"
+        ]
+    },
+    "block.trial_spawner.spawn2": {
+        "sounds": [
+            "block/trial_spawner/spawn2"
+        ]
+    },
+    "block.trial_spawner.spawn3": {
+        "sounds": [
+            "block/trial_spawner/spawn3"
+        ]
+    },
+    "block.trial_spawner.spawn4": {
+        "sounds": [
+            "block/trial_spawner/spawn4"
+        ]
+    },
+    "enchant.soulspeed.soulspeed1": {
+        "sounds": [
+            "enchant/soulspeed/soulspeed1"
+        ]
+    },
+    "enchant.soulspeed.soulspeed10": {
+        "sounds": [
+            "enchant/soulspeed/soulspeed10"
+        ]
+    },
+    "enchant.soulspeed.soulspeed11": {
+        "sounds": [
+            "enchant/soulspeed/soulspeed11"
+        ]
+    },
+    "enchant.soulspeed.soulspeed12": {
+        "sounds": [
+            "enchant/soulspeed/soulspeed12"
+        ]
+    },
+    "enchant.soulspeed.soulspeed13": {
+        "sounds": [
+            "enchant/soulspeed/soulspeed13"
+        ]
+    },
+    "enchant.soulspeed.soulspeed2": {
+        "sounds": [
+            "enchant/soulspeed/soulspeed2"
+        ]
+    },
+    "enchant.soulspeed.soulspeed3": {
+        "sounds": [
+            "enchant/soulspeed/soulspeed3"
+        ]
+    },
+    "enchant.soulspeed.soulspeed4": {
+        "sounds": [
+            "enchant/soulspeed/soulspeed4"
+        ]
+    },
+    "enchant.soulspeed.soulspeed5": {
+        "sounds": [
+            "enchant/soulspeed/soulspeed5"
+        ]
+    },
+    "enchant.soulspeed.soulspeed6": {
+        "sounds": [
+            "enchant/soulspeed/soulspeed6"
+        ]
+    },
+    "enchant.soulspeed.soulspeed7": {
+        "sounds": [
+            "enchant/soulspeed/soulspeed7"
+        ]
+    },
+    "enchant.soulspeed.soulspeed8": {
+        "sounds": [
+            "enchant/soulspeed/soulspeed8"
+        ]
+    },
+    "enchant.soulspeed.soulspeed9": {
+        "sounds": [
+            "enchant/soulspeed/soulspeed9"
+        ]
+    },
+    "enchant.thorns.hit1": {
+        "sounds": [
+            "enchant/thorns/hit1"
+        ]
+    },
+    "enchant.thorns.hit2": {
+        "sounds": [
+            "enchant/thorns/hit2"
+        ]
+    },
+    "enchant.thorns.hit3": {
+        "sounds": [
+            "enchant/thorns/hit3"
+        ]
+    },
+    "enchant.thorns.hit4": {
+        "sounds": [
+            "enchant/thorns/hit4"
+        ]
+    },
+    "entity.endereye.dead1": {
+        "sounds": [
+            "entity/endereye/dead1"
+        ]
+    },
+    "entity.endereye.dead2": {
+        "sounds": [
+            "entity/endereye/dead2"
+        ]
+    },
+    "entity.endereye.endereye_launch1": {
+        "sounds": [
+            "entity/endereye/endereye_launch1"
+        ]
+    },
+    "entity.endereye.endereye_launch2": {
+        "sounds": [
+            "entity/endereye/endereye_launch2"
+        ]
+    },
+    "entity.pufferfish.blow_out1": {
+        "sounds": [
+            "entity/pufferfish/blow_out1"
+        ]
+    },
+    "entity.pufferfish.blow_out2": {
+        "sounds": [
+            "entity/pufferfish/blow_out2"
+        ]
+    },
+    "entity.pufferfish.blow_up1": {
+        "sounds": [
+            "entity/pufferfish/blow_up1"
+        ]
+    },
+    "entity.pufferfish.blow_up2": {
+        "sounds": [
+            "entity/pufferfish/blow_up2"
+        ]
+    },
+    "entity.pufferfish.death1": {
+        "sounds": [
+            "entity/pufferfish/death1"
+        ]
+    },
+    "entity.pufferfish.death2": {
+        "sounds": [
+            "entity/pufferfish/death2"
+        ]
+    },
+    "entity.pufferfish.flop1": {
+        "sounds": [
+            "entity/pufferfish/flop1"
+        ]
+    },
+    "entity.pufferfish.flop2": {
+        "sounds": [
+            "entity/pufferfish/flop2"
+        ]
+    },
+    "entity.pufferfish.flop3": {
+        "sounds": [
+            "entity/pufferfish/flop3"
+        ]
+    },
+    "entity.pufferfish.flop4": {
+        "sounds": [
+            "entity/pufferfish/flop4"
+        ]
+    },
+    "entity.pufferfish.hurt1": {
+        "sounds": [
+            "entity/pufferfish/hurt1"
+        ]
+    },
+    "entity.pufferfish.hurt2": {
+        "sounds": [
+            "entity/pufferfish/hurt2"
+        ]
+    },
+    "entity.pufferfish.sting1": {
+        "sounds": [
+            "entity/pufferfish/sting1"
+        ]
+    },
+    "entity.pufferfish.sting2": {
+        "sounds": [
+            "entity/pufferfish/sting2"
+        ]
+    },
+    "entity.wind_charge.wind_burst1": {
+        "sounds": [
+            "entity/wind_charge/wind_burst1"
+        ]
+    },
+    "entity.wind_charge.wind_burst2": {
+        "sounds": [
+            "entity/wind_charge/wind_burst2"
+        ]
+    },
+    "entity.wind_charge.wind_burst3": {
+        "sounds": [
+            "entity/wind_charge/wind_burst3"
+        ]
+    },
+    "item.goat_horn.call0": {
+        "sounds": [
+            "item/goat_horn/call0"
+        ]
+    },
+    "item.goat_horn.call1": {
+        "sounds": [
+            "item/goat_horn/call1"
+        ]
+    },
+    "item.goat_horn.call2": {
+        "sounds": [
+            "item/goat_horn/call2"
+        ]
+    },
+    "item.goat_horn.call3": {
+        "sounds": [
+            "item/goat_horn/call3"
+        ]
+    },
+    "item.goat_horn.call4": {
+        "sounds": [
+            "item/goat_horn/call4"
+        ]
+    },
+    "item.goat_horn.call5": {
+        "sounds": [
+            "item/goat_horn/call5"
+        ]
+    },
+    "item.goat_horn.call6": {
+        "sounds": [
+            "item/goat_horn/call6"
+        ]
+    },
+    "item.goat_horn.call7": {
+        "sounds": [
+            "item/goat_horn/call7"
+        ]
+    },
+    "item.totem.use_totem": {
+        "sounds": [
+            "item/totem/use_totem"
+        ]
+    },
+    "item.trident.ground_impact1": {
+        "sounds": [
+            "item/trident/ground_impact1"
+        ]
+    },
+    "item.trident.ground_impact2": {
+        "sounds": [
+            "item/trident/ground_impact2"
+        ]
+    },
+    "item.trident.ground_impact3": {
+        "sounds": [
+            "item/trident/ground_impact3"
+        ]
+    },
+    "item.trident.ground_impact4": {
+        "sounds": [
+            "item/trident/ground_impact4"
+        ]
+    },
+    "item.trident.pierce1": {
+        "sounds": [
+            "item/trident/pierce1"
+        ]
+    },
+    "item.trident.pierce2": {
+        "sounds": [
+            "item/trident/pierce2"
+        ]
+    },
+    "item.trident.pierce3": {
+        "sounds": [
+            "item/trident/pierce3"
+        ]
+    },
+    "item.trident.return1": {
+        "sounds": [
+            "item/trident/return1"
+        ]
+    },
+    "item.trident.return2": {
+        "sounds": [
+            "item/trident/return2"
+        ]
+    },
+    "item.trident.return3": {
+        "sounds": [
+            "item/trident/return3"
+        ]
+    },
+    "item.trident.riptide1": {
+        "sounds": [
+            "item/trident/riptide1"
+        ]
+    },
+    "item.trident.riptide2": {
+        "sounds": [
+            "item/trident/riptide2"
+        ]
+    },
+    "item.trident.riptide3": {
+        "sounds": [
+            "item/trident/riptide3"
+        ]
+    },
+    "item.trident.throw1": {
+        "sounds": [
+            "item/trident/throw1"
+        ]
+    },
+    "item.trident.throw2": {
+        "sounds": [
+            "item/trident/throw2"
+        ]
+    },
+    "item.trident.thunder1": {
+        "sounds": [
+            "item/trident/thunder1"
+        ]
+    },
+    "item.trident.thunder2": {
+        "sounds": [
+            "item/trident/thunder2"
+        ]
+    },
+    "mob.breeze.charge1": {
+        "sounds": [
+            "mob/breeze/charge1"
+        ]
+    },
+    "mob.breeze.charge2": {
+        "sounds": [
+            "mob/breeze/charge2"
+        ]
+    },
+    "mob.breeze.charge3": {
+        "sounds": [
+            "mob/breeze/charge3"
+        ]
+    },
+    "mob.breeze.death1": {
+        "sounds": [
+            "mob/breeze/death1"
+        ]
+    },
+    "mob.breeze.death2": {
+        "sounds": [
+            "mob/breeze/death2"
+        ]
+    },
+    "mob.breeze.deflect1": {
+        "sounds": [
+            "mob/breeze/deflect1"
+        ]
+    },
+    "mob.breeze.deflect2": {
+        "sounds": [
+            "mob/breeze/deflect2"
+        ]
+    },
+    "mob.breeze.deflect3": {
+        "sounds": [
+            "mob/breeze/deflect3"
+        ]
+    },
+    "mob.breeze.hurt1": {
+        "sounds": [
+            "mob/breeze/hurt1"
+        ]
+    },
+    "mob.breeze.hurt2": {
+        "sounds": [
+            "mob/breeze/hurt2"
+        ]
+    },
+    "mob.breeze.hurt3": {
+        "sounds": [
+            "mob/breeze/hurt3"
+        ]
+    },
+    "mob.breeze.idle1": {
+        "sounds": [
+            "mob/breeze/idle1"
+        ]
+    },
+    "mob.breeze.idle2": {
+        "sounds": [
+            "mob/breeze/idle2"
+        ]
+    },
+    "mob.breeze.idle3": {
+        "sounds": [
+            "mob/breeze/idle3"
+        ]
+    },
+    "mob.breeze.idle4": {
+        "sounds": [
+            "mob/breeze/idle4"
+        ]
+    },
+    "mob.breeze.idle_air1": {
+        "sounds": [
+            "mob/breeze/idle_air1"
+        ]
+    },
+    "mob.breeze.idle_air2": {
+        "sounds": [
+            "mob/breeze/idle_air2"
+        ]
+    },
+    "mob.breeze.idle_air3": {
+        "sounds": [
+            "mob/breeze/idle_air3"
+        ]
+    },
+    "mob.breeze.idle_air4": {
+        "sounds": [
+            "mob/breeze/idle_air4"
+        ]
+    },
+    "mob.breeze.inhale1": {
+        "sounds": [
+            "mob/breeze/inhale1"
+        ]
+    },
+    "mob.breeze.inhale2": {
+        "sounds": [
+            "mob/breeze/inhale2"
+        ]
+    },
+    "mob.breeze.jump1": {
+        "sounds": [
+            "mob/breeze/jump1"
+        ]
+    },
+    "mob.breeze.jump2": {
+        "sounds": [
+            "mob/breeze/jump2"
+        ]
+    },
+    "mob.breeze.land1": {
+        "sounds": [
+            "mob/breeze/land1"
+        ]
+    },
+    "mob.breeze.land2": {
+        "sounds": [
+            "mob/breeze/land2"
+        ]
+    },
+    "mob.breeze.shoot": {
+        "sounds": [
+            "mob/breeze/shoot"
+        ]
+    },
+    "mob.breeze.slide1": {
+        "sounds": [
+            "mob/breeze/slide1"
+        ]
+    },
+    "mob.breeze.slide2": {
+        "sounds": [
+            "mob/breeze/slide2"
+        ]
+    },
+    "mob.breeze.slide3": {
+        "sounds": [
+            "mob/breeze/slide3"
+        ]
+    },
+    "mob.breeze.slide4": {
+        "sounds": [
+            "mob/breeze/slide4"
+        ]
+    },
+    "mob.breeze.whirl": {
+        "sounds": [
+            "mob/breeze/whirl"
+        ]
+    },
+    "mob.breeze.wind_burst1": {
+        "sounds": [
+            "mob/breeze/wind_burst1"
+        ]
+    },
+    "mob.breeze.wind_burst2": {
+        "sounds": [
+            "mob/breeze/wind_burst2"
+        ]
+    },
+    "mob.breeze.wind_burst3": {
+        "sounds": [
+            "mob/breeze/wind_burst3"
+        ]
+    },
+    "mob.warden.agitated_1": {
+        "sounds": [
+            "mob/warden/agitated_1"
+        ]
+    },
+    "mob.warden.agitated_2": {
+        "sounds": [
+            "mob/warden/agitated_2"
+        ]
+    },
+    "mob.warden.agitated_3": {
+        "sounds": [
+            "mob/warden/agitated_3"
+        ]
+    },
+    "mob.warden.agitated_4": {
+        "sounds": [
+            "mob/warden/agitated_4"
+        ]
+    },
+    "mob.warden.agitated_5": {
+        "sounds": [
+            "mob/warden/agitated_5"
+        ]
+    },
+    "mob.warden.agitated_6": {
+        "sounds": [
+            "mob/warden/agitated_6"
+        ]
+    },
+    "mob.warden.ambient_1": {
+        "sounds": [
+            "mob/warden/ambient_1"
+        ]
+    },
+    "mob.warden.ambient_10": {
+        "sounds": [
+            "mob/warden/ambient_10"
+        ]
+    },
+    "mob.warden.ambient_11": {
+        "sounds": [
+            "mob/warden/ambient_11"
+        ]
+    },
+    "mob.warden.ambient_12": {
+        "sounds": [
+            "mob/warden/ambient_12"
+        ]
+    },
+    "mob.warden.ambient_2": {
+        "sounds": [
+            "mob/warden/ambient_2"
+        ]
+    },
+    "mob.warden.ambient_3": {
+        "sounds": [
+            "mob/warden/ambient_3"
+        ]
+    },
+    "mob.warden.ambient_4": {
+        "sounds": [
+            "mob/warden/ambient_4"
+        ]
+    },
+    "mob.warden.ambient_5": {
+        "sounds": [
+            "mob/warden/ambient_5"
+        ]
+    },
+    "mob.warden.ambient_6": {
+        "sounds": [
+            "mob/warden/ambient_6"
+        ]
+    },
+    "mob.warden.ambient_7": {
+        "sounds": [
+            "mob/warden/ambient_7"
+        ]
+    },
+    "mob.warden.ambient_8": {
+        "sounds": [
+            "mob/warden/ambient_8"
+        ]
+    },
+    "mob.warden.ambient_9": {
+        "sounds": [
+            "mob/warden/ambient_9"
+        ]
+    },
+    "mob.warden.angry_1": {
+        "sounds": [
+            "mob/warden/angry_1"
+        ]
+    },
+    "mob.warden.angry_2": {
+        "sounds": [
+            "mob/warden/angry_2"
+        ]
+    },
+    "mob.warden.angry_3": {
+        "sounds": [
+            "mob/warden/angry_3"
+        ]
+    },
+    "mob.warden.angry_4": {
+        "sounds": [
+            "mob/warden/angry_4"
+        ]
+    },
+    "mob.warden.angry_5": {
+        "sounds": [
+            "mob/warden/angry_5"
+        ]
+    },
+    "mob.warden.angry_6": {
+        "sounds": [
+            "mob/warden/angry_6"
+        ]
+    },
+    "mob.warden.attack_impact_1": {
+        "sounds": [
+            "mob/warden/attack_impact_1"
+        ]
+    },
+    "mob.warden.attack_impact_2": {
+        "sounds": [
+            "mob/warden/attack_impact_2"
+        ]
+    },
+    "mob.warden.death_1": {
+        "sounds": [
+            "mob/warden/death_1"
+        ]
+    },
+    "mob.warden.death_2": {
+        "sounds": [
+            "mob/warden/death_2"
+        ]
+    },
+    "mob.warden.dig": {
+        "sounds": [
+            "mob/warden/dig"
+        ]
+    },
+    "mob.warden.emerge": {
+        "sounds": [
+            "mob/warden/emerge"
+        ]
+    },
+    "mob.warden.heartbeat_1": {
+        "sounds": [
+            "mob/warden/heartbeat_1"
+        ]
+    },
+    "mob.warden.heartbeat_2": {
+        "sounds": [
+            "mob/warden/heartbeat_2"
+        ]
+    },
+    "mob.warden.heartbeat_3": {
+        "sounds": [
+            "mob/warden/heartbeat_3"
+        ]
+    },
+    "mob.warden.heartbeat_4": {
+        "sounds": [
+            "mob/warden/heartbeat_4"
+        ]
+    },
+    "mob.warden.hurt_1": {
+        "sounds": [
+            "mob/warden/hurt_1"
+        ]
+    },
+    "mob.warden.hurt_2": {
+        "sounds": [
+            "mob/warden/hurt_2"
+        ]
+    },
+    "mob.warden.hurt_3": {
+        "sounds": [
+            "mob/warden/hurt_3"
+        ]
+    },
+    "mob.warden.hurt_4": {
+        "sounds": [
+            "mob/warden/hurt_4"
+        ]
+    },
+    "mob.warden.listening_1": {
+        "sounds": [
+            "mob/warden/listening_1"
+        ]
+    },
+    "mob.warden.listening_2": {
+        "sounds": [
+            "mob/warden/listening_2"
+        ]
+    },
+    "mob.warden.listening_3": {
+        "sounds": [
+            "mob/warden/listening_3"
+        ]
+    },
+    "mob.warden.listening_4": {
+        "sounds": [
+            "mob/warden/listening_4"
+        ]
+    },
+    "mob.warden.listening_5": {
+        "sounds": [
+            "mob/warden/listening_5"
+        ]
+    },
+    "mob.warden.listening_angry_1": {
+        "sounds": [
+            "mob/warden/listening_angry_1"
+        ]
+    },
+    "mob.warden.listening_angry_2": {
+        "sounds": [
+            "mob/warden/listening_angry_2"
+        ]
+    },
+    "mob.warden.listening_angry_3": {
+        "sounds": [
+            "mob/warden/listening_angry_3"
+        ]
+    },
+    "mob.warden.listening_angry_4": {
+        "sounds": [
+            "mob/warden/listening_angry_4"
+        ]
+    },
+    "mob.warden.listening_angry_5": {
+        "sounds": [
+            "mob/warden/listening_angry_5"
+        ]
+    },
+    "mob.warden.nearby_close_1": {
+        "sounds": [
+            "mob/warden/nearby_close_1"
+        ]
+    },
+    "mob.warden.nearby_close_2": {
+        "sounds": [
+            "mob/warden/nearby_close_2"
+        ]
+    },
+    "mob.warden.nearby_close_3": {
+        "sounds": [
+            "mob/warden/nearby_close_3"
+        ]
+    },
+    "mob.warden.nearby_close_4": {
+        "sounds": [
+            "mob/warden/nearby_close_4"
+        ]
+    },
+    "mob.warden.nearby_closer_1": {
+        "sounds": [
+            "mob/warden/nearby_closer_1"
+        ]
+    },
+    "mob.warden.nearby_closer_2": {
+        "sounds": [
+            "mob/warden/nearby_closer_2"
+        ]
+    },
+    "mob.warden.nearby_closer_3": {
+        "sounds": [
+            "mob/warden/nearby_closer_3"
+        ]
+    },
+    "mob.warden.nearby_closest_1": {
+        "sounds": [
+            "mob/warden/nearby_closest_1"
+        ]
+    },
+    "mob.warden.nearby_closest_2": {
+        "sounds": [
+            "mob/warden/nearby_closest_2"
+        ]
+    },
+    "mob.warden.nearby_closest_3": {
+        "sounds": [
+            "mob/warden/nearby_closest_3"
+        ]
+    },
+    "mob.warden.roar_1": {
+        "sounds": [
+            "mob/warden/roar_1"
+        ]
+    },
+    "mob.warden.roar_2": {
+        "sounds": [
+            "mob/warden/roar_2"
+        ]
+    },
+    "mob.warden.roar_3": {
+        "sounds": [
+            "mob/warden/roar_3"
+        ]
+    },
+    "mob.warden.roar_4": {
+        "sounds": [
+            "mob/warden/roar_4"
+        ]
+    },
+    "mob.warden.roar_5": {
+        "sounds": [
+            "mob/warden/roar_5"
+        ]
+    },
+    "mob.warden.sniff_1": {
+        "sounds": [
+            "mob/warden/sniff_1"
+        ]
+    },
+    "mob.warden.sniff_2": {
+        "sounds": [
+            "mob/warden/sniff_2"
+        ]
+    },
+    "mob.warden.sniff_3": {
+        "sounds": [
+            "mob/warden/sniff_3"
+        ]
+    },
+    "mob.warden.sniff_4": {
+        "sounds": [
+            "mob/warden/sniff_4"
+        ]
+    },
+    "mob.warden.sonic_boom1": {
+        "sounds": [
+            "mob/warden/sonic_boom1"
+        ]
+    },
+    "mob.warden.sonic_boom2": {
+        "sounds": [
+            "mob/warden/sonic_boom2"
+        ]
+    },
+    "mob.warden.sonic_boom3": {
+        "sounds": [
+            "mob/warden/sonic_boom3"
+        ]
+    },
+    "mob.warden.sonic_boom4": {
+        "sounds": [
+            "mob/warden/sonic_boom4"
+        ]
+    },
+    "mob.warden.sonic_charge1": {
+        "sounds": [
+            "mob/warden/sonic_charge1"
+        ]
+    },
+    "mob.warden.sonic_charge2": {
+        "sounds": [
+            "mob/warden/sonic_charge2"
+        ]
+    },
+    "mob.warden.sonic_charge3": {
+        "sounds": [
+            "mob/warden/sonic_charge3"
+        ]
+    },
+    "mob.warden.sonic_charge4": {
+        "sounds": [
+            "mob/warden/sonic_charge4"
+        ]
+    },
+    "mob.warden.step_1": {
+        "sounds": [
+            "mob/warden/step_1"
+        ]
+    },
+    "mob.warden.step_2": {
+        "sounds": [
+            "mob/warden/step_2"
+        ]
+    },
+    "mob.warden.step_3": {
+        "sounds": [
+            "mob/warden/step_3"
+        ]
+    },
+    "mob.warden.step_4": {
+        "sounds": [
+            "mob/warden/step_4"
+        ]
+    },
+    "mob.warden.tendril_clicks_1": {
+        "sounds": [
+            "mob/warden/tendril_clicks_1"
+        ]
+    },
+    "mob.warden.tendril_clicks_2": {
+        "sounds": [
+            "mob/warden/tendril_clicks_2"
+        ]
+    },
+    "mob.warden.tendril_clicks_3": {
+        "sounds": [
+            "mob/warden/tendril_clicks_3"
+        ]
+    },
+    "mob.warden.tendril_clicks_4": {
+        "sounds": [
+            "mob/warden/tendril_clicks_4"
+        ]
+    },
+    "mob.warden.tendril_clicks_5": {
+        "sounds": [
+            "mob/warden/tendril_clicks_5"
+        ]
+    },
+    "mob.warden.tendril_clicks_6": {
+        "sounds": [
+            "mob/warden/tendril_clicks_6"
+        ]
+    },
+    "mob.wither.spawn": {
+        "sounds": [
+            "mob/wither/spawn"
+        ]
+    }
+}
