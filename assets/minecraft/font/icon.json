@@ -87,7 +87,7 @@
             "height": 8,
             "ascent": 8,
             "chars": [
-            "t"
+                "t"
             ]
         },
         {
@@ -96,7 +96,43 @@
             "height": 8,
             "ascent": 8,
             "chars": [
-            "s"
+                "s"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/difficulty/dif_picnic.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "p"
+            ]
+        },
+                {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/difficulty/dif_casual.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "c"
+            ]
+        },
+                {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/difficulty/dif_another.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "a"
+            ]
+        },
+                {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/difficulty/dif_ascendant.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "n"
             ]
         }
     ]
