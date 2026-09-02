@@ -75,7 +75,7 @@
       }
     ]
   },
-  "nether.dconcrete_halls": {
+  "nether.concrete_halls": {
     "replace": true,
     "sounds": [
       {
@@ -97,7 +97,7 @@
     "replace": true,
     "sounds": [
       {
-        "name": "music/game/nether/chrysopoeia",
+        "name": "music/game/nether/crimson_forest/chrysopoeia",
         "stream": true
       }
     ]
@@ -174,11 +174,11 @@
       }
     ]
   },
-  "shunjii": {
+  "shuniji": {
     "replace": true,
     "sounds": [
       {
-        "name": "music/game/water/shunjii",
+        "name": "music/game/water/shuniji",
         "stream": true
       }
     ]
@@ -255,11 +255,21 @@
       }
     ]
   },
+    "ancestry.pitch1.25": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/ancestry",
+        "stream": true,
+        "pitch": 1.25
+      }
+    ]
+  },
   "firebugs": {
     "replace": true,
     "sounds": [
       {
-        "name": "music/game/firebugs",
+        "name": "music/game/swamp/firebugs",
         "stream": true
       }
     ]
@@ -268,7 +278,7 @@
     "replace": true,
     "sounds": [
       {
-        "name": "music/game/labyrinthine",
+        "name": "music/game/swamp/labyrinthine",
         "stream": true
       }
     ]
@@ -310,8 +320,7 @@
         "stream": true
       }
     ]
-  }
-  ,
+  },
   "endless": {
     "replace": true,
     "sounds": [
@@ -390,6 +399,24 @@
       {
         "name": "records/precipice",
         "pitch": 1.25,
+        "stream": true
+      }
+    ]
+  },
+  "end_boss": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/end/boss",
+        "stream": true
+      }
+    ]
+  },
+  "the_end": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/end/the_end",
         "stream": true
       }
     ]
