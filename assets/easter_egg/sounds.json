@@ -1,0 +1,11 @@
+{
+  "chuinchuin": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "easter_egg:chuinchuin",
+        "stream": true
+      }
+    ]
+  }
+}
