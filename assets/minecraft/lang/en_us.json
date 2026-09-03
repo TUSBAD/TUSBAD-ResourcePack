@@ -1,4 +1,15 @@
 {
+    "## 注意 ##": "複数キーで1単語を表わす場合は改行を使って区別すること",
+
+"## Minecraft翻訳変更 ##": "",
+
+    "attribute.name.generic.luck": "Magical Power",
+    "effect.minecraft.luck": "MP Increase",
+    "effect.minecraft.unluck": "MP Decrease",
+    "effect.minecraft.bad_omen": "Curse",
+
+"## オプションメニュー ##": "",
+
     "menu.returnToMenu": "§c旅を終える§r",
     "menu.disconnect": "§c旅を終える§r",
     "menu.returnToGame": "§a旅を続ける§r",
@@ -18,5 +29,40 @@
     "deathScreen.titleScreen": "§4§l成仏する§r",
     "deathScreen.leaveServer": "Leave server",
     "deathScreen.quit.confirm": "§c§l後悔しませんね？§r",
-    "options.sounds": "音量設定"
+    "options.sounds": "音量設定",
+
+"## イースターエッグ ##": "",
+
+    "ChuinChuin": "ありすいの声",
+    "Koorude": "§3§lトカルトコルデに～？浸かると凍るで～！§r",
+
+"## バイオーム ##": "",
+
+    "biome.area.airpot": "ヒミンホフン",
+    "biome.area.ancinent": "ヴィーグリーズ",
+    "biome.area.another": "ラグナホル",
+    "biome.area.apocalypse_island": "ラグナヴェルド",
+    "biome.area.cloudia": "ヒミンヘイム",
+    "biome.area.collapse_island": "フルンヴァール",
+    "biome.area.cursed_island": "フォルバンガルド",
+    "biome.area.demise_island": "ダウドヴァングル",
+    "biome.area.exdomain": "エクストラドメイン",
+    "biome.area.gulliver": "ヨトゥンヘイム",
+    "biome.area.hellheim": "フヴィルドヘイム",
+    "biome.area.imaginary": "トームヘイム",
+    "biome.area.library": "フローズヘイム",
+    "biome.area.nethertrial": "スルトホル",
+    "biome.area.newskyland": "アールヴァングル",
+    "biome.area.niflheimr": "フリームヘイム",
+    "biome.area.purgatory": "ドームホル",
+    "biome.area.revskyland": "ハーヴァングル",
+    "biome.area.table": "フィヤルヘイム",
+    "biome.area.the_end": "ギンヌンホル",
+    "biome.area.the_nether": "エルドヘイム",
+    "biome.area.tocult": "イースヘイム",
+    "biome.area.tradeisland": "フリーズヘイム",
+    "biome.area.tutorial": "ビフレストサル",
+    "biome.area.underworld": "ドックルヘイム",
+    "biome.area.unusual": "サムルンホル",
+    "biome.area.test": "ルーンヴァルキ"
 }
