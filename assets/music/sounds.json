@@ -1,5 +1,5 @@
 {
-  "nether.soul_sand_valley_pitch2": {
+  "so_below_pitch2": {
     "replace": true,
     "sounds": [
       {
@@ -9,7 +9,7 @@
       }
     ]
   },
-  "nether.soul_sand_valley_pitch1.5": {
+  "so_below_pitch1.5": {
     "replace": true,
     "sounds": [
       {
@@ -19,7 +19,7 @@
       }
     ]
   },
-  "nether.soul_sand_valley_rare": {
+  "so_below": {
     "replace": true,
     "sounds": [
       {
@@ -28,7 +28,7 @@
       }
     ]
   },
-  "nether.nether_wastes_pitch2": {
+  "rubedo_pitch2": {
     "replace": true,
     "sounds": [
       {
@@ -38,7 +38,7 @@
       }
     ]
   },
-  "nether.nether_wastes_pitch1.5": {
+  "rubedo_pitch1.5": {
     "replace": true,
     "sounds": [
       {
@@ -48,7 +48,7 @@
       }
     ]
   },
-  "nether.nether_wastes_rare": {
+  "rubedo": {
     "replace": true,
     "sounds": [
       {
@@ -93,7 +93,7 @@
       }
     ]
   },
-  "nether.chrysopoeia": {
+  "chrysopoeia": {
     "replace": true,
     "sounds": [
       {
@@ -255,7 +255,7 @@
       }
     ]
   },
-    "ancestry.pitch1.25": {
+  "ancestry.pitch1.25": {
     "replace": true,
     "sounds": [
       {
@@ -380,6 +380,115 @@
     "sounds": [
       {
         "name": "music/game/yakusoku",
+        "stream": true
+      }
+    ]
+  },
+  "all_music": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/yakusoku",
+        "stream": true
+      },
+      {
+        "name": "music/game/watcher",
+        "stream": true
+      },
+      {
+        "name": "music/game/puzzlebox",
+        "stream": true
+      },
+      {
+        "name": "music/game/pokopoko",
+        "stream": true
+      },
+      {
+        "name": "music/game/komorebi",
+        "stream": true
+      },
+      {
+        "name": "music/game/featherfall",
+        "stream": true
+      },
+      {
+        "name": "music/game/endless",
+        "stream": true
+      },
+      {
+        "name": "music/game/deeper",
+        "stream": true
+      },
+      {
+        "name": "music/game/swamp/labyrinthine",
+        "stream": true
+      },
+      {
+        "name": "music/game/swamp/firebugs",
+        "stream": true
+      },
+      {
+        "name": "music/game/infinite_amethyst",
+        "stream": true
+      },
+      {
+        "name": "music/game/echo_in_the_wind",
+        "stream": true
+      },
+      {
+        "name": "music/game/crescent_dunes",
+        "stream": true
+      },
+      {
+        "name": "music/game/a_familiar_room",
+        "stream": true
+      },
+      {
+        "name": "music/game/bromeliad",
+        "stream": true
+      },
+      {
+        "name": "music/game/water/axolotl",
+        "stream": true
+      },
+      {
+        "name": "music/game/water/dragon_fish",
+        "stream": true
+      },
+      {
+        "name": "music/game/water/shuniji",
+        "stream": true
+      },
+      {
+        "name": "music/game/stand_tall",
+        "stream": true
+      },
+      {
+        "name": "music/game/one_more_day",
+        "stream": true
+      },
+      {
+        "name": "music/game/an_ordinary_day",
+        "stream": true
+      },
+      {
+        "name": "music/game/comforting_memories",
+        "stream": true
+      },
+      {
+        "name": "music/game/floating_dream",
+        "stream": true
+      },
+      {
+        "name": "music/game/wending",
+        "stream": true
+      },
+      {
+        "name": "music/game/swamp/aerie",
+        "stream": true
+      },
+      {
+        "name": "music/game/left_to_bloom",
         "stream": true
       }
     ]
