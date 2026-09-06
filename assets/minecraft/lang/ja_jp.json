@@ -60,5 +60,12 @@
     "biome.area.tutorial": "ビフレストサル",
     "biome.area.underworld": "ドックルヘイム",
     "biome.area.unusual": "サムルンホル",
-    "biome.area.test": "ルーンヴァルキ"
+    "biome.area.test": "ルーンヴァルキ",
+
+"## エンチャント":"",
+    "超越": "超越",
+    "魔法":"魔法",
+    "物理":"物理",
+    "%1$s属性追加":"%1$s属性追加",
+    "%1$s属性軽減":"%1$s属性軽減"
 }
