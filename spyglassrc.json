@@ -6,7 +6,7 @@
             "@vanilla-mcdoc",
             "./"
         ],
-        "gameVersion": "1.21.4"
+        "gameVersion": "26.2"
     },
     "lint": {
         "undeclaredSymbol": [
