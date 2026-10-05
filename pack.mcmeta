@@ -1,9 +1,9 @@
 {
     "pack": {
-        "pack_format": 88,
+        "pack_format": 88.0,
         "supported_formats": [
-            46,
-            88
+            88.0,
+            88.0
         ],
         "description": "TUSBRemix AnotherEdition\nMCver 26.2"
     }
