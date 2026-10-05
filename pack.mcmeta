@@ -1,6 +1,12 @@
 {
-    "pack": {
-        "pack_format": 88.0,
-        "description": "TUSBRemix AnotherEdition\nMCver 26.2"
-    }
+  "pack": {
+    "description": "TUSBAscendantDimension ResourcePack",
+    "pack_format": 88,
+    "min_format": [
+      88
+    ],
+    "max_format": [
+      88.9
+    ]
+  }
 }
